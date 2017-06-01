@@ -3,6 +3,7 @@ made some changes
 
 i made some new changes (conflicting maybe?)
 made some change from github 
-
 changes from master branch
+dev branch has new stuff here
+dev branch made more new stuff here
 
