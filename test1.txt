@@ -4,4 +4,5 @@ made some changes
 i made some new changes (conflicting maybe?)
 made some change from github 
 
-dev branch has new stuff here
+changes from master branch
+
